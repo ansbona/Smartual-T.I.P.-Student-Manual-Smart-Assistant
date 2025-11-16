@@ -4,7 +4,6 @@
 # Author: AI Assistant | Date: November 2025
 # ============================================================================
 
-import zipfile
 import os
 import json
 import streamlit as st
@@ -19,13 +18,7 @@ from datetime import datetime
 # ============================================================================
 # CONFIGURATION & COLOR PALETTE
 # ============================================================================
-zip_path = os.path.join(os.path.dirname(__file__), "smartual_model.zip")
-extract_to = "smartual_model"
 
-if not os.path.exists(extract_to):
-    with zipfile.ZipFile(zip_path, 'r') as zip_ref:
-        zip_ref.extractall(extract_to)
-        
 MANUAL_DATA_FILE = "manual_data.json"
 SECTION_EXAMPLES_FILE = "section_examples.json"
 FEEDBACK_PATH = "feedback_log.csv"
