@@ -1,7 +1,7 @@
 # ============================================================================
 # SMART STUDENT ASSISTANT - T.I.P. Student Manual Q&A System
 # A Streamlit application using semantic search and in-context classification
-# Author: AI Assistant | Date: November 2025
+# Author: Team 3 CPE31S5 | Date: November 2025
 # ============================================================================
 
 
