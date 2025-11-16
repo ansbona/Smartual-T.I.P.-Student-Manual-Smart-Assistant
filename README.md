@@ -123,9 +123,6 @@ On first run, the application will download the `all-MiniLM-L6-v2` model from Hu
 
 - **Sample Questions**: Click pre-defined sample questions for quick testing
 - **Section Analytics**: View most-asked sections in the sidebar
-- **Confidence Indicators**: 
-  - ✅ Green card = High confidence
-  - ⚠️ Orange card = Lower confidence
 
 ---
 
