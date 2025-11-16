@@ -294,6 +294,7 @@ Potential improvements:
 5. **Admin Panel**: Interface to update manual content
 6. **Export**: Allow students to download answers as PDF
 
+
 ---
 
 ## 📄 License & Attribution
@@ -301,6 +302,23 @@ Potential improvements:
 - Built for educational purposes
 - Uses open-source libraries (Streamlit, sentence-transformers, FAISS)
 - Based on TIP-Manual-2025.pdf (Technological Institute of the Philippines)
+
+---
+
+## 📄 Developers of smartual project
+
+- Bona, Andrei Nycole So
+- GitHub Account: https://github.com/ansbona
+  
+- Guariño, Danica
+- GitHub Account: https://github.com/DanicaGuarino
+
+- Santos, Andrei
+- GitHub Account: https://github.com/dreiiuu
+
+## 📄 Adviser of the smartual project
+- Engr. Neal Barton James Matira
+- GitHub Account: https://github.com/neeeal
 
 ---
 
