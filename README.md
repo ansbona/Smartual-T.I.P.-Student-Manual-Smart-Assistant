@@ -320,3 +320,6 @@ Potential improvements:
 ---
 
 **Happy Learning! 🎓**
+
+
+Web App Link: https://smartual.streamlit.app/
